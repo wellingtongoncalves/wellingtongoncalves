@@ -4,4 +4,4 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... HTML5,CSS FLEXBOX E JAVASCRIPT.:computer::computer:
+- :books: I’m currently learning ... HTML5,CSS FLEXBOX E JAVASCRIPT.:computer::computer:

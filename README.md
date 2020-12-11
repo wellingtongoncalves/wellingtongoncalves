@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.instagram.com/we_llington92//">
+<a href="https://www.instagram.com/we_llington92/">
   <img align="left" alt="Wellington Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

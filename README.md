@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
   
   
-  ![s](https://user-images.githubusercontent.com/71050969/102937439-e8636080-4488-11eb-8731-55cd7e90a05e.png)
+
 
   
   

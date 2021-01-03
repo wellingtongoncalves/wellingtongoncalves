@@ -5,8 +5,8 @@
 
 <h3 align =" center "> Minhas Redes: </h3>
 <p align = "center">
-<a href="https://linkedin.com/in/nkedin.com/in/wellington-gonçalves-b44118199/" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt = "linkedin.com/in/wellington-gonçalves-b44118199/" altura = "20" largura = "20" /> </ a>
-<a href="https://www.instagram.com/we_llington92/" target="blank"> <img align = "center" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"height =" 20 "largura =" 20 "/> </a>
+
+<a href="https://www.instagram.com/we_llington92/" target="blank"> <img align = "center" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"height =" 30 "largura =" 40 "/> </a>
 </p>
 
 

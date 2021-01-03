@@ -9,9 +9,9 @@
 <a href="https://www.instagram.com/we_llington92/" target="blank"> <img align = "center" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"height =" 20 "largura =" 20 "/> </a>
 </p>
 
-<h3 align = "center"> Idiomas e ferramentas: </h3>
+
 <p align = "center"> <a href="https://git-scm.com/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "30" height = "30" /> </a> </p>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=wellingtongoncalves&show_icons=true&locale=en&layout=compact "alt =" wellingtongoncalves "/> </p>
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=wellingtongoncalves&show_icons=true&locale=en&layout=compact "alt =" wellingtongoncalves "/> </p>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=wellingtongoncalves&show_icons=true&locale=en" alt = "wellingtongoncalves" /> </p>
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=wellingtongoncalves&show_icons=true&locale=en" alt = "wellingtongoncalves" /> </p>

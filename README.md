@@ -5,8 +5,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/wellington-gon%C3%A7alves-b44118199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nkedin.com/in/wellington-gonçalves-b44118199/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/we_llington92/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/we_llington92/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wellington-gon%C3%A7alves-b44118199/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384889.png" alt="nkedin.com/in/wellington-gonçalves-b44118199/" height="80" width="80" /></a>
+   
+<a href="https://instagram.com/https://www.instagram.com/we_llington92/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="https://www.instagram.com/we_llington92/" height="80" width="80" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wellington</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellingtongoncalves&label=Profile%20views&color=0e75b6&style=flat" alt="wellingtongoncalves" /> </p>
 
-<h2 align="center"> - 🌱  I’m currently learning</h3>
+<h2 align="center"> - 📚 🖥️  I’m currently learning</h3>
 
 <div style="display: inline_block"><br>
  

@@ -25,8 +25,6 @@
  
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtongoncalves)](https://github.com/wellingtongoncalves/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtongoncalves&show_icons=true&theme=calm )
 
-
-<p align:"center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellingtongoncalves&show_icons=true&locale=en&layout=compact" alt="wellingtongoncalves" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtongoncalves&show_icons=true&locale=en" alt="wellingtongoncalves" /></p>

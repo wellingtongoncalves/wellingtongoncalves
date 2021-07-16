@@ -5,7 +5,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p aling="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/wellington-gon%C3%A7alves-b44118199/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384889.png" alt="nkedin.com/in/wellington-gonçalves-b44118199/" height="50" width="50" " /></a> </p>
  
  <p align="center">
